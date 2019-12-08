@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class TestNsignWidgetAsset extends AssetBundle
 {
-    public $sourcePath = __DIR__ . '/nicEdit';
+    public $sourcePath = __DIR__ . '/Assets';
 
     public $js = [
     "nicEdit/nicEdit.js",    
